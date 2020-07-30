@@ -1,5 +1,5 @@
 # 20200730_git_collaboration_wt
-Git collaboration notes
+Git collaboration notes -> NEW CHANGE
 
 - git clone <url> [target]   : downloads a repository from specified url to local computer.
                                - don't nest repositories inside each other
