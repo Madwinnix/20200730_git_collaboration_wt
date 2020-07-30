@@ -1,5 +1,6 @@
 # 2020-07-30_git_collaboration_wt
-Git collaboration notes -> create a conflict
+
+Git collaboration notes -> NEW CHANGE
 
 ##############################################################################################
 ## Block: branches
