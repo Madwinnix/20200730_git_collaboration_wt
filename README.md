@@ -1,4 +1,4 @@
-# 20200730_git_collaboration_wt
+# 2020-07-30_git_collaboration_wt
 Git collaboration notes -> create a conflict
 
 ##############################################################################################
