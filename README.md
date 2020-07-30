@@ -9,3 +9,5 @@ Git collaboration notes
 - git branch -a              : list all brnaches in local repository
  
 - git switch <branch name>   : switch to specified branch
+  git checkout <branch name> : same as git switch
+
